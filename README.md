@@ -32,7 +32,7 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 There are two ways to consume the information in this repository:
 
 1. [Entity Reference Index](schemaDocuments#directory-of-cdm-entities)
-2. [Visual Entity Navigator for Kyndryl Digital Workplace Services](https://prabha-sasikanth-kyndryl.github.io/CDM/Kyn-index.html) for interactively exploring entities, entity extensions/inheritance, attributes, and relationships
+2. [Visual Entity Navigator for Kyndryl Digital Workplace Services](https://prabha-sasikanth-kyndryl.github.io/CDM/index.html) for interactively exploring entities, entity extensions/inheritance, attributes, and relationships
 
 # Versioning
 
