@@ -1,0 +1,31 @@
+{
+    "jsonSchemaSemanticVersion":"0.9.0",
+    "imports":[
+       {
+          "corpusPath":"../dwscoredef.cdm.json"
+       },
+        {
+            "corpusPath":"cdm:/foundations.cdm.json"
+        }
+    ],
+    "definitions":[
+       {
+          "entityName":"Conversation",
+          "description":"Represents one user conversation with in Virtual Agent ",
+          "hasAttributes":[
+             {
+                "name":"conversationID",
+                "dataType":"string",
+                "description":"A unique ID typically UUID identifying a user conversation.",
+                "exhibitsTraits":[
+                    "means.identity.name"
+                 ]
+             },
+             {
+                "name":"topic_identified",
+                "dataType":"Topic"
+             }
+          ]
+       }
+    ]
+ }
