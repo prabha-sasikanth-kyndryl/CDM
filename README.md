@@ -1,21 +1,55 @@
-# Common Data Model Official Packages
 
-| [![NuGet](https://img.shields.io/nuget/v/Microsoft.CommonDataModel.ObjectModel.svg?style=flat-square&label=nuget&colorB=00b200)](https://www.nuget.org/profiles/CommonDataModel/) | [![Maven Central](https://img.shields.io/maven-central/v/com.microsoft.commondatamodel/objectmodel.svg?style=flat-square&label=maven-central&colorB=00b200)](https://search.maven.org/artifact/com.microsoft.commondatamodel/objectmodel) | [![PyPI](https://img.shields.io/pypi/v/commondatamodel-objectmodel.svg?style=flat-square&label=pypi&colorB=00b200)](https://pypi.org/project/commondatamodel-objectmodel/) | [![npm](https://img.shields.io/npm/v/cdm.objectmodel.svg?style=flat-square&label=npm&colorB=00b200)](https://www.npmjs.com/package/cdm.objectmodel) |
-------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+# Welcome to Kyndryl Digital Workplace Services Common Data Model 
 
-# We welcome your feedback
+(Work In Progress)
 
-Do you use the Common Data Model SDK?  If you do, please can you tell us which version(s) you use (C#/.NET, Java, Python, or TypeScript) by taking this [**short survey**](https://forms.office.com/r/hainr3a7rR).
+DWS Common Data Model is based on Common Data Model (<link>) published by Microsoft. 
 
-# Common Data Model (CDM) Schema
+
+## Why
+
+    TODO
+    
+## What 
+
+**DWS Common Data Model**
+
+    TODO
+
+**Common Data Model (CDM) Schema**
 
 The Common Data Model is a declarative specification, and definition of standard entities that represent commonly used concepts and activities across business and productivity applications, and is being extended to observational and analytical data as well. CDM provides well-defined, modular, and extensible business entities such as Account, Business Unit, Case, Contact, Lead, Opportunity, and Product, as well as interactions with vendors, workers, and customers, such as activities and service level agreements. Anyone can build on and extend CDM definitions to capture additional business-specific ideas.
 
-<pre>
-<img src="docs/blank.png"/>  <a href="https://microsoft.github.io/CDM/SchemaViz.html?initialManifest=manifests/dynamicsCRM.manifest.cdm.json&simpleChrome=true"> <img src="docs/dyn-static.PNG"/> </a>
-<a href="https://microsoft.github.io/CDM/SchemaViz.html?initialManifest=standards.manifest.cdm.json&simpleChrome=true"> <img src="docs/all-entities-small.PNG"/></a><a href="https://microsoft.github.io/CDM/SchemaViz.html?initialManifest=manifests/insightsApplications.manifest.cdm.json&simpleChrome=true"> <img src="docs/insights-static.PNG"/> </a><a href="https://microsoft.github.io/CDM/SchemaViz.html?initialManifest=manifests/financeAndOperations.manifest.cdm.json&simpleChrome=true"> <img src="docs/f-and-o-static.PNG"/> </a>
-<a href="https://microsoft.github.io/CDM/SchemaViz.html?"> <img src="docs/advanced-small.PNG"/> </a><a href="https://microsoft.github.io/CDM/SchemaViz.html?initialManifest=manifests/automotiveAccelerator.manifest.cdm.json&simpleChrome=true"> <img src="docs/auto-accel-static.png"/> </a><a href="https://microsoft.github.io/CDM/SchemaViz.html?initialManifest=manifests/bankingAccelerator.manifest.cdm.json&simpleChrome=true"> <img src="docs/banking-accel-static.png"/> </a><a href="https://microsoft.github.io/CDM/SchemaViz.html?initialManifest=manifests/electronicMedicalRecordsAccelerator.manifest.cdm.json&simpleChrome=true"> <img src="docs/medical-accel-static.png"/> </a><a href="https://microsoft.github.io/CDM/SchemaViz.html?initialManifest=manifests/higherEducationAccelerator.manifest.cdm.json&simpleChrome=true"> <img src="docs/higher-ed-accel-static.png"/> </a><a href="https://microsoft.github.io/CDM/SchemaViz.html?initialManifest=manifests/nonProfitAccelerator.manifest.cdm.json&simpleChrome=true"> <img src="docs/non-prof-accel-static.png"/> </a>
-</pre>
+
+## How
+
+    TODO
+
+
+# Repository Layout
+
+There are two ways to consume the information in this repository:
+
+1. [DWS CDM Schema Explorer](https://musical-adventure-ey6okom.pages.github.io/SchemaViz.html)
+2. [DWS CDM Visual Entity Navigator](https://musical-adventure-ey6okom.pages.github.io/) for interactively exploring entities, entity extensions/inheritance, attributes, and relationships
+
+
+
+# Reference to Microsoft Common Data Model
+
+    Refer [Microsoft Common Data Model](https://github.com/microsoft/CDM) Git hub Repository for more details.
+
+
+
+
+
+
+
+
+<hr/>
+<hr/>
+
+
 
 # Introduction
 
