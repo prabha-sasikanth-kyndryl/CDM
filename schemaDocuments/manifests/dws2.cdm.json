@@ -1,0 +1,16 @@
+{
+    "jsonSchemaSemanticVersion" : "1.1.0",
+    "imports" : [
+     
+    ],
+    "manifestName" : "default",
+    "entities" : [
+      {
+        "type" : "LocalEntity",
+        "entityName" : "Conversation",
+        "entityPath" : "DigitalWorkplaceServices/va/conversation.1.0.cdm.json/Conversation"
+      }
+    ],
+    "relationships" : []
+      
+  }
