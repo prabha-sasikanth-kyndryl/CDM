@@ -1,9 +1,7 @@
 {
     "jsonSchemaSemanticVersion" : "1.1.0",
     "imports" : [
-      {
-        "corpusPath": "/core/cdsConcepts.cdm.json"
-      }
+      
     ],
     "manifestName" : "default",
     "entities" : [
