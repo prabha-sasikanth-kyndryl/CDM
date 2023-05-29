@@ -1,0 +1,20 @@
+{
+    "entityName" : "Question",
+    "hasAttributes" :[
+        {
+            "name": "topicCode",
+            "dataType": "string"
+        },
+        {
+            "name": "canonicalForm",
+            "dataType": "string"
+            
+
+        },
+        {
+            "name":"questionUniqueID",
+            "dataType" : "string"
+        }
+
+    ]
+}

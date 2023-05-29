@@ -1,0 +1,17 @@
+{
+    "entityName" : "VirtualAgent",
+    "hasAttributes" :[
+        {
+            "name": "virtualAgentInstanceId",
+            "dataType": "string",
+            "appliedTraits":["means.identity"]
+        },
+        {
+            "name": "virtualAgentName",
+            "dataType": "string",
+            "appliedTraits":["means.identity"]
+
+        }
+
+    ]
+}
