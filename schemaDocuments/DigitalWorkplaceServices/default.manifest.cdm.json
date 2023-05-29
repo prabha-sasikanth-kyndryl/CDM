@@ -7,8 +7,8 @@
     "entities" : [
       {
         "type" : "LocalEntity",
-        "entityName" : "Account",
-        "entityPath" : "local:/DigitalWorkplaceServices/va/conversation.1.0.cdm.json/Conversation"
+        "entityName" : "Conversation",
+        "entityPath" : "DigitalWorkplaceServices/va/conversation.1.0.cdm.json/Conversation"
       }
     ],
     "relationships" : []
