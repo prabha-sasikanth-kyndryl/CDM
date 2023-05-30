@@ -1,0 +1,24 @@
+{
+    "entityName" : "Topic",
+    "hasAttributes" :[
+        {
+            "name": "topicCode",
+            "dataType": "string"
+        },
+        {
+            "name": "topicId",
+            "dataType": "string",
+            "appliedTraits":["means.identity"]
+
+        },
+        {
+            "name":"topicName",
+            "dataType" : "string"
+        },
+        {
+            "name":"knowledgeBaseID",
+            "dataType" : "string"
+        }
+
+    ]
+}

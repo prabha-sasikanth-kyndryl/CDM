@@ -1,0 +1,22 @@
+{
+    "entityName" : "Feedback",
+    "hasAttributes" :[
+        {
+            "name": "feedbackId",
+            "dataType": "string",
+            "appliedTraits":["means.identity"]
+        },
+        {
+            "name": "feedbackType",
+            "dataType": "string"
+            
+            
+        },
+        {
+            "name":"sentiment",
+            "dataType" : "string"
+            
+        }
+
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "entityName" : "Interaction",
+    "hasAttributes" :[
+        {
+            "name": "interactionId",
+            "dataType": "string",
+            "appliedTraits":["means.identity"]
+        },
+        {
+            "name": "inputQuestion",
+            "dataType": "string"
+            
+        },
+        {
+            "name":"identifiedTopic",
+            "dataType" : "Topic"
+        }
+
+    ]
+}
