@@ -1,0 +1,21 @@
+{
+    "defaultNamespace" : "local",
+    "adapters" : [
+      {
+        "type" : "local",
+        "config" : {
+          "root" : "../DWS",
+          "locationHint" : ""
+        },
+        "namespace" : "local"
+      },
+      {
+        "type" : "local",
+        "config" : {
+          "root" : "../public-standard",
+          "locationHint" : ""
+        },
+        "namespace" : "cdm"
+      }
+    ]
+  }

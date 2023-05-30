@@ -13,7 +13,7 @@
       {
         "type" : "LocalEntity",
         "entityName" : "Conversation",
-        "entityPath" : "./va/conversation.1.0.cdm.json/Conversation"
+        "entityPath" : "local:/DWS/va/conversation.1.0.cdm.json/Conversation"
       }
     ],
     "relationships" : []
