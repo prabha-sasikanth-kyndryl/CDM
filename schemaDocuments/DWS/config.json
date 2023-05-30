@@ -4,7 +4,7 @@
       {
         "type" : "local",
         "config" : {
-          "root" : "../DWS",
+          "root" : "./",
           "locationHint" : ""
         },
         "namespace" : "local"

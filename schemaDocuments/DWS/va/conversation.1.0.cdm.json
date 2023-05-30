@@ -1,23 +1,37 @@
 {
-    "entityName" : "Conversation",
-    "hasAttributes" :[
-        {
-            "name": "conversationID",
-            "dataType": "string"
-        },
-        {
-            "name": "sessionStartTime",
-            "dataType": "string"   
-        },
-        {
-            "name": "sessionEndTime",
-            "dataType": "string"   
-        },
-        {
-            "name": "conversationFeedback",
-            "dataType": "string"   
-        }
+   "jsonSchemaSemanticVersion" : "1.1.0",
+   "imports" : [
+      {
+        "corpusPath" : "_allimports.cdm.json"
+      }
+    ],
 
-        
+    "definitions":[
+      {
+         "entityName" : "Conversation",
+         "hasAttributes" :[
+             {
+                 "name": "conversationID",
+                 "dataType": "string"
+             },
+             {
+                 "name": "sessionStartTime",
+                 "dataType": "string"   
+             },
+             {
+                 "name": "sessionEndTime",
+                 "dataType": "string"   
+             },
+             {
+                 "name": "conversationFeedback",
+                 "dataType": "string"   
+             }
+     
+             
+         ]
+     }
+
     ]
 }
+
+
